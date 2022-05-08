@@ -51,6 +51,18 @@ A tranquil respite after conquering Victory Road before facing the Elite Four.
 
 <br /><br />
 
+## Pokémon RSE - Oceanic Museum
+
+<!-- source: https://static.wikia.nocookie.net/pokemon/images/5/56/Oceanic_Museum%28E%29.png/revision/latest?cb=20111217184020 -->
+<a href='#'><img align="right" width="25%" alt="Pokémon RSE - Oceanic Museum" src="./images/oceanic-museum.webp" /></a>
+
+A museum in Slateport City; a variation of the iconic S.S. Anne theme from Gen 1.
+
+- [Sheet](./sheet-music/pokemon-rse-oceanic-museum.pdf)
+- [Audio](https://www.youtube.com/watch?v=gXDpynALaFM)
+
+<br /><br />
+
 ## Pokémon RSE - Verdanturf Town
 
 <!-- source: https://pianu.com/wp-content/uploads/2019/10/download-2.jpg -->
