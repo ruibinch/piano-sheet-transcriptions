@@ -12,7 +12,7 @@ I occasionally dabble in piano sheet transcriptions for songs that I'm looking t
 
 The beautiful ending theme that plays as the credits roll in Pokémon Ruby/Sapphire/Emerald.
 
-- [Sheet](./sheet-music/pokemon-rse-ending-theme.pdf)
+- [Sheet](./sheet-music/pokemon-rse-ending-theme.pdf?raw=true)
 - [Audio](https://www.youtube.com/watch?v=KmlFDnsT4Zk)
 
 <br />
@@ -23,7 +23,7 @@ The beautiful ending theme that plays as the credits roll in Pokémon Ruby/Sapph
 
 From the Studio Ghibli film Porco Rosso; based on the fantastic version played by Joe Hisaishi during the "Joe Hisaishi in Budokan - Studio Ghibli 25 Years" concert.
 
-- [Sheet](./sheet-music/porco-rosso-the-bygone-days.pdf)
+- [Sheet](./sheet-music/porco-rosso-the-bygone-days.pdf?raw=true)
 - [Audio](https://www.youtube.com/watch?v=QsowHW0t7CA)
 
 <br />
@@ -34,7 +34,7 @@ From the Studio Ghibli film Porco Rosso; based on the fantastic version played b
 
 Xinyao song from the Singaporean film "That Girl in Pinafore".
 
-- [Sheet](./sheet-music/that-girl-in-pinafore-ni-de-dao-ying.pdf)
+- [Sheet](./sheet-music/that-girl-in-pinafore-ni-de-dao-ying.pdf?raw=true)
 - [Audio](https://www.youtube.com/watch?v=27VqrAfj6OU)
 
 <br /><br />
@@ -46,7 +46,7 @@ Xinyao song from the Singaporean film "That Girl in Pinafore".
 
 A tranquil respite after conquering Victory Road before facing the Elite Four.
 
-- [Sheet](./sheet-music/pokemon-dppt-pokemon-league.pdf)
+- [Sheet](./sheet-music/pokemon-dppt-pokemon-league.pdf?raw=true)
 - [Audio](https://www.youtube.com/watch?v=h1eBGWxAs74)
 
 <br /><br />
@@ -58,7 +58,7 @@ A tranquil respite after conquering Victory Road before facing the Elite Four.
 
 A museum in Slateport City; a variation of the iconic S.S. Anne theme from Gen 1.
 
-- [Sheet](./sheet-music/pokemon-rse-oceanic-museum.pdf)
+- [Sheet](./sheet-music/pokemon-rse-oceanic-museum.pdf?raw=true)
 - [Audio](https://www.youtube.com/watch?v=gXDpynALaFM)
 
 <br /><br />
@@ -70,7 +70,7 @@ A museum in Slateport City; a variation of the iconic S.S. Anne theme from Gen 1
 
 The town known for its very clean air; one of the all-time top Pokémon soundtracks.
 
-- [Sheet](./sheet-music/pokemon-rse-verdanturf-town.pdf)
+- [Sheet](./sheet-music/pokemon-rse-verdanturf-town.pdf?raw=true)
 - [Audio](https://www.youtube.com/watch?v=MHFBO-ASaE8)
 
 <br />
@@ -82,7 +82,7 @@ The town known for its very clean air; one of the all-time top Pokémon soundtra
 
 Theme song from a Japanese game "The Last Story".
 
-- [Sheet](./sheet-music/the-last-story-toberu-mono.pdf)
+- [Sheet](./sheet-music/the-last-story-toberu-mono.pdf?raw=true)
 - [Audio](https://www.youtube.com/watch?v=zDiEIzDa5VM)
 
 <br /><br />
@@ -93,5 +93,5 @@ Theme song from a Japanese game "The Last Story".
 
 From a Japanese game "Fragile Dreams: Farewell Ruins of the Moon".
 
-- [Sheet](./sheet-music/fragile-dreams-farewell-ruins-of-the-moon-to-all-people.pdf)
+- [Sheet](./sheet-music/fragile-dreams-farewell-ruins-of-the-moon-to-all-people.pdf?raw=true)
 - [Audio](https://www.youtube.com/watch?v=2pPsJd6bPOM)
